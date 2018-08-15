@@ -1,4 +1,7 @@
 
+library(tidyr)
+library(dplyr)
+library(reshape2)
 library(data.table)
 
 #Download data for the project
