@@ -1,0 +1,9 @@
+# Code book
+This is the code book for tidy data set
+
+## Variables Description
+Subject - Subject Ids
+
+Activity Labels - Walking, Walking Upstairs, Walking Downstirs, Sitting, Standing, Laying
+
+The rest of the vriables are the mean of  body linear accelration and anuglar velocity signals
